@@ -1,4 +1,3 @@
-# GenAI_Models
 # 🚀 Generative AI Models Repository
 
 > A comprehensive collection of state-of-the-art generative AI implementations with detailed explanations, visualizations, and practical examples.
@@ -76,8 +75,8 @@ This repository contains clean, well-documented implementations of modern genera
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/generative-ai-models.git
-cd generative-ai-models
+git clone https://github.com/Karthikreddy1010/GenAI_Models.git
+cd GenAI_Models
 
 # Create virtual environment
 python -m venv venv
