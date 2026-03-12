@@ -958,8 +958,8 @@ Thanks to:
 
 <div align="center">
 
-**[⬆ back to top](#-generative-ai-models-repository)**
+**[⬆ back to top](#-GenAI_Models-repository)**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Your Name](https://github.com/Karthikreddy1010)
 
 </div>
